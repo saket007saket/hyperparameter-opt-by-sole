@@ -1,1 +1,1 @@
-git clone https://github.com/solegalli/hyperparameter-optimization.git
+https://github.com/solegalli/hyperparameter-optimization.git
